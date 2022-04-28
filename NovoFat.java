@@ -1,4 +1,4 @@
-package principal;
+package principalmain;
 public class NovoFat {
     // O atributo num é o número que será calculado o seu fatorial;
     public int num;
