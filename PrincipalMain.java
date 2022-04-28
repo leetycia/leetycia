@@ -1,5 +1,5 @@
-package principal;
-public class Principal {
+package principalmain;
+public class PrincipalMain {
     public static void main(String[] args) {
         int num = 10;
         NovoFat fat = new NovoFat();
